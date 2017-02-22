@@ -1,8 +1,5 @@
-
-var name = prompt('Wpisz swoje imię'); // zadeklarowanie zmiennej o nazwie name
-alert('Witaj, ' + name);
-console.log('Witaj, ' + name);
-
-/*
-  console.log(‘wartość zostanie wyświetlona w zakładce’);
-*/
+var a = '4',
+    h = '5',
+    triangleArea = [a*h/2]
+;
+console.log('Pole trójkąta o podstawie a: '+ a + ' i wysokości h: ' + h +' wynosi: ' + triangleArea );
