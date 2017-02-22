@@ -1,8 +1,4 @@
-
-var name = prompt('Wpisz swoje imię'); // zadeklarowanie zmiennej o nazwie name
+// plik scripts.js
+var name = prompt('Wpisz twoje imię');
 alert('Witaj, ' + name);
 console.log('Witaj, ' + name);
-
-/*
-  console.log(‘wartość zostanie wyświetlona w zakładce’);
-*/
